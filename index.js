@@ -27,6 +27,10 @@ function gridOrDetail() {
     }
   }
   
+<<<<<<< HEAD
+=======
+  // this should be on a window.onload
+>>>>>>> 04f2e5415cb2145f52fa45c46f9f5efe1d64c173
   document.getElementById("btnradio1").addEventListener("click", gridOrDetail);
   document.getElementById("btnradio2").addEventListener("click", gridOrDetail);
   gridOrDetail();
